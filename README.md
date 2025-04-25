@@ -33,7 +33,6 @@ Follow the steps below to run the project locally:
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/ai-customer-support-chat.git
 cd ai-customer-support-chat
 
@@ -65,6 +64,29 @@ cd ai-customer-support-chat
     http://127.0.0.1:5000
     You should now see the AI Support Dashboard running with live chat!
 
+📷 ![image](https://github.com/user-attachments/assets/53d43228-fc53-493c-bbd9-ed101c62c209)
+    ![image](https://github.com/user-attachments/assets/2aaf9673-9b6e-490c-891b-c3fe023f5a35)
+    ![image](https://github.com/user-attachments/assets/7a1ec78f-0cfd-42b6-9dd6-0a19c962c0f0)
+
+
+🙌 Credits
+Groq – for the powerful LLM APIs
+
+LlamaIndex – for making data integration easy
+
+Cursor – for the sleek front-end design
+
+Developed by: Hammad Hassan
+
+📬 Contact
+For queries or freelance work:
+
+📧 Email: hammadblti302@gmail.com
+
+🌐 Linkedin: https://www.linkedin.com/in/hammad-hassan-52a054360/ 
+
+📝 License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
 
 
